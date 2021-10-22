@@ -6,6 +6,6 @@ export const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: COLORS.BLACK_SECONDARY,
-    paddingTop: getStatusBarHeight() + 25
+    paddingTop: getStatusBarHeight() + 30
   }
 });
